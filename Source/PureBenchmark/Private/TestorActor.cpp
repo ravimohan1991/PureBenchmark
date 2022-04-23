@@ -2,7 +2,7 @@
  *   --------------------------
  *  |  TestorActor.cpp
  *   --------------------------
- *   This file is part of Equalizer for PureBenchmark.
+ *   This file is part of UE4 based PureBenchmark.
  *
  *   PureBenchmark is free software: you can redistribute it and/or modify
  *   it under the terms of the GNU General Public License as published by
@@ -51,3 +51,40 @@ int ATestorActor::SpitInt_Native()
 	return 20;
 }
 
+/*
+ *
+ *		                                  /\
+ *		                                 / /
+ *		                              /\| |
+ *		                              | | |/\
+ *		                              | | / /
+ *		                              | `  /
+ *		                              `\  (___
+ *		                             _.->  ,-.-.
+ *		                          _.'      |  \ \
+ *		                         /    _____| 0 |0\
+ *		                        |    /`    `^-.\.-'`-._
+ *		                        |   |                  `-._
+ *		                        |   :                      `.
+ *		                        \    `._     `-.__         O.'
+ *		 _.--,                   \     `._     __.^--._O_..-'
+ *		`---, `.                  `\     /` ` `
+ *		     `\ `,                  `\   |
+ *		      |   :                   ;  |
+ *		      /    `.              ___|__|___
+ *		     /       `.           (          )
+ *		    /    `---.:____...---' `--------`.
+ *		   /        (         `.      __      `.
+ *		  |          `---------' _   /  \       \
+ *		  |    .-.      _._     (_)  `--'        \
+ *		  |   (   )    /   \                       \
+ *		   \   `-'     \   /                       ;-._
+ *		    \           `-'           \           .'   `.
+ *		    /`.                  `\    `\     _.-'`-.    `.___
+ *		   |   `-._                `\    `\.-'       `-.   ,--`
+ *		    \      `--.___        ___`\    \           ||^\\
+ *		     `._        | ``----''     `.   `\         `'  `
+ *		        `--;     \  jgs          `.   `.
+ *		           //^||^\\               //^||^\\
+ *		           '  `'  `               '   '  `
+ */
