@@ -20,7 +20,7 @@ The labels are as follows:
 **y-axis**: function (foreach loop) completion time in milliseconds
 
 
-Now, finally, we focus attention of relevant Blueprint logic
+Now, finally, we focus attention on relevant Blueprint logic
 
 ![image](https://user-images.githubusercontent.com/2173654/164894970-d3bc2228-6050-47d1-a48a-737bc4c615bd.png)
 
