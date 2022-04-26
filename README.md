@@ -1,5 +1,5 @@
 # PureBenchmark
-Testing a contention written in [blog-post](https://celdevs.com/2021/09/14/unreal-engine-and-the-hidden-pitfalls-of-blueprints/). The suggested measures are pondered upon,
+Testing a contention written in [blog-post](https://celdevs.com/2021/09/14/unreal-engine-and-the-hidden-pitfalls-of-blueprints/) originating from [twitter-tweet](https://twitter.com/MilkyEngineer/status/1438019463605932036) (or so I was informed). The suggested measures are pondered upon,
 introspected, and concretely subjected to large stresses. The results do fall in line with the said article.
 
 Contention: <ins>[Pure](https://docs.unrealengine.com/4.27/en-US/ProgrammingAndScripting/Blueprints/UserGuide/Functions/#purevs.impure) Blueprint Nodes are expensive in certain contexts</ins>.
